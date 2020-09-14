@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on enhancing my skills and putting them to practical.
 - 🌱 I’m currently learning <b> Data Analytics and Machine Learning </b>
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubham-kumar-agrawal/) , [Kaggle](https://www.kaggle.com/skagrawal)
-- ⚡ Fun fact: I cook food to relive stress and when I get burnt out!!
+- ⚡ Fun fact: I cook food to relieve stress and when I get burnt out!!
 
 <!--
 **shubagr/shubagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
